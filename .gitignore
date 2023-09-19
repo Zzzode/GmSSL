@@ -1,4 +1,3 @@
-
 # generated file
 /build*
 /demos/*.pem
@@ -41,3 +40,5 @@
 \#*#
 *~
 
+.idea
+.cache
